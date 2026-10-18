@@ -1,0 +1,7 @@
+numpy
+scipy
+pandas
+matplotlib
+opencv-python
+scikit-image
+nd2
